@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pauline - @pau-wer
-- 👀 I’m interested in following some GIS platform development,
+- 👀 I’m interested in following some GIS platform development.
 - 🌱 I’m currently learning various things, I’m curious!
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me : by email
